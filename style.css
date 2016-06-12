@@ -1,0 +1,36 @@
+/*
+ Theme Name:   Cover Child
+ Theme URI:    https://github.com/clintlalonde/cover-child
+ Description:  Cover Child Theme
+ Author:       Clint Lalonde
+ Author URI:   http://clintlalonde.net
+ Template:     cover
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags: custom-background, custom-colors, custom-menu, featured-images, one-column, sticky-post, theme-options
+ Text Domain:  cover-child
+*/
+
+.cover-title {
+	line-height: normal;
+	font-weight: 800;
+	font-size: 38px;
+	font-size: 3.2rem;
+	text-transform: uppercase;
+	background-color: rgba(5,5,5,0.9);
+	padding: 18px;
+	box-shadow: 0 0 8px rgba(5,5,5,0.5), 2px 3px 3px rgba(5,5,5,0.3);
+	color: #fff;
+}
+
+.cover .entry-meta {
+	margin: 1em 0;
+	background-color: rgba(5,5,5,0.9);
+	box-shadow: 0 0 8px rgba(5,5,5,0.5), 2px 3px 3px rgba(5,5,5,0.3);
+	padding: .2em .8em;
+	float: left;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 175%;
+}
